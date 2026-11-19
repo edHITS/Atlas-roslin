@@ -1,2 +1,2 @@
-# Atlas-ro-lin
+# Atlas-roślin
 Atlas Roślin
