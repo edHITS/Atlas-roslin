@@ -1,4 +1,4 @@
-# Atlas roślin — Cyfrowy zielnik
+# Atlas roślin - Cyfrowy zielnik
 
 Natywna aplikacja mobilna na system Android stworzona w języku **Java**, służąca do katalogowania gatunków roślin, tworzenia własnych kart zielnikowych oraz szybkiego wyszukiwania okazów w terenie i ogrodzie.
 
