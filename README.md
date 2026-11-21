@@ -24,6 +24,6 @@ Natywna aplikacja mobilna na system Android stworzona w języku **Java**, służ
 - **Baza danych:** Lokalna baza **SQLite** (`SQLiteOpenHelper`) z automatyczną migracją schematu między kolejnymi wersjami aplikacji
 - **Format kopii zapasowych:** `org.json` + `MediaStore.Downloads` / Storage Access Framework
 
-## 👤 Autor
+## Autor
 
 **Henryk** — [github.com/edHITS](https://github.com/edHITS?tab=repositories)
