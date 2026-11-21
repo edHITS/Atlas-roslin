@@ -1,6 +1,6 @@
 # Atlas roślin - Cyfrowy zielnik
 
-Natywna aplikacja mobilna na system Android stworzona w języku **Java**, służąca do katalogowania gatunków roślin, tworzenia własnych kart zielnikowych oraz szybkiego wyszukiwania okazów w terenie i ogrodzie.
+Natywna aplikacja mobilna na system Android stworzona w języku **Java**, służąca do katalogowania gatunków roślin, tworzenia własnych kart zielnikowych oraz szybkiego wyszukiwania okazów.
 
 ---
 
@@ -26,4 +26,4 @@ Natywna aplikacja mobilna na system Android stworzona w języku **Java**, służ
 
 ## Autor
 
-**Henryk** — [github.com/edHITS](https://github.com/edHITS?tab=repositories)
+**Henryk** - [github.com/edHITS](https://github.com/edHITS?tab=repositories)
